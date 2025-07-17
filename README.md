@@ -142,6 +142,6 @@ export const deepseekConfig = {
 
 ## 联系方式
 
-项目维护者 - [您的名字](mailto:your.email@example.com)
+项目维护者 - [yun](mailto:yang26977@163.com)
 
-项目链接: [https://github.com/your-username/forestry-pest-identification](https://github.com/your-username/forestry-pest-identification)
+项目链接: [https://github.com/1lixi2/yun.git]
