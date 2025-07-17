@@ -42,7 +42,7 @@
 - **图像处理**：OpenCV, PIL
 - **数据库**：MySQL
 - **用户认证**：Flask-Login
-- **前端技术**：HTML, CSS, JavaScript
+- **前端技术**：HTML, CSS, VUE3,Uniapp,JavaScript
 - **API文档**：RESTful API
 
 ## 安装指南
@@ -60,8 +60,7 @@
 
 1. 克隆仓库：
 ```bash
-git clone https://github.com/your-username/yoloflask.git
-cd yoloflask
+git clone https://github.com/1lixi2/yun.git
 ```
 
 2. 创建并激活虚拟环境（可选但推荐）：
@@ -262,7 +261,7 @@ Content-Type: application/json
 欢迎贡献代码！请遵循以下步骤：
 
 1. Fork本项目
-2. 创建新分支 (`git checkout -b feature/your-feature`)
+2. 创建新分支 (`git checkout -b feature/`)
 3. 提交更改 (`git commit -am 'Add some feature'`)
 4. 推送到分支 (`git push origin feature/your-feature`)
 5. 创建Pull Request
@@ -271,6 +270,6 @@ Content-Type: application/json
 
 MIT License
 
-Copyright (c) 2023 Your Name
+Copyright (c) 2023 yun
 
 Permission is hereby granted...
